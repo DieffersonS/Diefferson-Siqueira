@@ -1,1 +1,3 @@
 # Diefferson-Siqueira
+
+Atuei nos últimos 3 anos com desenvolvimento web, utilizando ferramentas no-code e low-code como Bubble.io, Flutterflow, Weweb, além de gerenciar bancos de dados com Supabase e Xano. Desenvolvi aplicações, do front-end ao back-end, o que reforçou minha capacidade de estruturar projetos funcionais do zero. Atualmente, busco aprofundar meu domínio em código e me manter atualizado com as tecnologias emergentes no mercado. Tenho conhecimentos básicos em HTML, CSS, JavaScript, Python, PostgreSQL. Ainda estudando e me atualizando sempre com as novas ferramentas e utilizando IA para sempre aprender mais.
